@@ -18,3 +18,8 @@ Projeto aberto de engenharia mecânica e elétrica para geração de energia lim
 ## Autoria e Licença
 - **Idealização e Desenvolvimento Inicial:** Moacyr Fernando de Araújo
 - **Licença:** Aberto para estudo, reprodução e melhoria contínua mediante crédito ao autor original e manutenção da abertura do projeto (CERN-OHL-S v2 / CC BY-SA 4.0).
+
+- ## 📚 Histórico e Diário de Bordo no Blogger
+Este projeto também possui registros prévios, relatos de processo e contexto sobre o autor publicados no **Blogger**, onde a leitura e o acompanhamento costumam ser mais diretos:
+- **Blog / Diário de Bordo:** https://pormoacyrfernandodearaujo.blogspot.com/
+- **O que você encontra por lá:** relatos anteriores do desenvolvimento, bastidores das ideias, reflexões do projeto e informações para conhecer melhor quem idealizou a iniciativa.
